@@ -169,7 +169,7 @@ p.note { display: none; }
 <h2><span class="yellow">1人50バーツでスライドショーの資料紹介と、山岳民族たちの資料閲覧です</span></h2>
 <a href="20250227_014.JPG" target="_blank"><img src="20250227_014.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">エレベータで3階まで上がったところです</span></h2>
+<h2><span class="yellow">エレベータで3階まで上がったところです<br>PDAはタイ最大のNPO法人とのこと</span></h2>
 <a href="20250227_015.JPG" target="_blank"><img src="20250227_015.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">タイ北部に約95万人の山岳民族がいるとのこと</span></h2>
